@@ -11,7 +11,7 @@ app.use(cors({
     origin: [
     "http://localhost:5173",
     "http://localhost:3000",
-    "https://6a7475b9cabba44755d9a15b--cosmic-arithmetic-005c3b.netlify.app/",
+    "https://ai-focus.netlify.app/",
     ],
     credentials: true,
 }));
