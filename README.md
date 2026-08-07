@@ -194,9 +194,15 @@ Add screenshots of:
 
 **Shubham**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Rishu0122
 
 ---
+
+## 🌐 Live Demo
+
+Frontend: https://6a759c69899b5d7960e9500d--ai-focus.netlify.app/
+
+Backend: https://ai-focus-room.onrender.com
 
 ## ⭐ Support
 
