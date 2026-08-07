@@ -200,7 +200,7 @@ GitHub: https://github.com/Rishu0122
 
 ## 🌐 Live Demo
 
-Frontend: https://6a759c69899b5d7960e9500d--ai-focus.netlify.app/
+Frontend: https://6a759c69899b5d7960e9500d--ai-focus.netlify.app
 
 Backend: https://ai-focus-room.onrender.com
 
